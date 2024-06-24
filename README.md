@@ -8,7 +8,7 @@ Customizable: The logging file location and format can be easily customized as n
 
 step 1:
 Installation and Usage:
-Clone the Repository:git clone https://github.com/shamilrv/python-keylogger.git
+Clone the Repository:git clone https://github.com/shamilrv/keylogger.git
 
 step 2:
 Install Dependencies:
